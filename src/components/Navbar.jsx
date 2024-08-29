@@ -71,7 +71,6 @@ function Navbar() {
               <div className="lg:mx-1">
                 <label className="lg:h-auto  lg:w-auto  rounded-lg input  flex items-center gap-2   bg-lime-400">
                   <form  onSubmit={async (e) => {
-                    console.log(searchItem)                    
                     e.preventDefault();
                   }}>
                     <input
