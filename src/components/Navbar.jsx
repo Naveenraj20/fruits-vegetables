@@ -47,13 +47,13 @@ function Navbar() {
               </button>
               <h1 className="lg:text-2xl font-bold"></h1>
             </div>
-            <div className="justify-center flex pt-5 px-4">
-            <p className="bg-white rounded-s-lg px-2 h-7 lg:hidden ">{cartValue}</p>
+            <div className="justify-center flex pt-4  px-4">
+            <p className="bg-white rounded-s-lg px-2 h-6 lg:hidden ">{cartValue}</p>
             <Link to='/Cart'>
               <div className="flex block">
                 <div>
                   <img
-                    className="bg-lime-400 rounded-e-lg w-7 h-7  lg:hidden"
+                    className="bg-lime-400 rounded-e-lg w-7 h-6  lg:hidden"
                     src="https://img.icons8.com/?size=100&id=LhRbsuC35iCh&format=png&color=000000"
                     alt="cart"
                   />
@@ -67,16 +67,16 @@ function Navbar() {
               <Sidebar sidebarToggle={sidebarToggle} />
             </div>
 
-            <div className="flex px-5 ">
-              <div className="mx-1">
-                <label className=" rounded-lg input  flex items-center gap-2   bg-lime-400">
+            <div className="flex lg:px-5 w-30 lg:w-auto ">
+              <div className="lg:mx-1">
+                <label className="lg:h-auto  lg:w-auto  rounded-lg input  flex items-center gap-2   bg-lime-400">
                   <form  onSubmit={async (e) => {
                     console.log(searchItem)                    
                     e.preventDefault();
                   }}>
                     <input
                       type="text"
-                      className="grow rounded-lg p-1 font-semibold px-2"
+                      className="grow rounded-lg p-1 font-semibold px-2 h-5 lg:h-auto"
                       placeholder="Search"
                       value={searchItem}
                       onChange={(e) => setSearchItem(e.target.value)}
