@@ -68,7 +68,7 @@ function Navbar() {
             </div>
 
             <div className="flex px-5 ">
-              <div className="mx-1  hidden lg:block">
+              <div className="mx-1">
                 <label className=" rounded-lg input  flex items-center gap-2   bg-lime-400">
                   <form  onSubmit={async (e) => {
                     console.log(searchItem)                    
