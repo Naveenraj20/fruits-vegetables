@@ -1,0 +1,212 @@
+[
+    {
+        "id" : 1,
+        "image":"https://5.imimg.com/data5/AK/RA/MY-68428614/apple.jpg",
+        "name" : "apple",
+        "type" : "fruit",
+        "cost" : 150        
+    },
+    {
+        "id" : 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGQC6GJohQegVw8Q-O8DZND247cYLnnxUlw&s",
+        "name" : "orange",
+        "type" : "fruit",
+        "cost" : 60        
+    },
+    {
+        "id" :3 ,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YkfJ7Cp7AqV5e9p0fDI9yDS55YgcN9zxvg&s",
+        "name" : "banana",
+        "type" : "fruit",
+        "cost" : 70        
+    },
+    {
+        "id" : 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNoiHz5EH7uMyzKBL2nDCbiuVz1kJH5WXwA&s",
+        "name" : "jackfruit",
+        "type" : "fruit",
+        "cost" : 90        
+    },
+    {
+        "id" : 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-pbSBdeHFNNH5WvregdBKW2R19t6otLzqyA&s",
+        "name" : "kiwi",
+        "type" : "fruit",
+        "cost" : 180        
+    },
+    {
+        "id" : 6,
+        "image": "https://media.istockphoto.com/id/450724125/photo/multiple-mangos-one-cut-and-one-sliced-in-a-pattern.jpg?s=612x612&w=0&k=20&c=blHm_yoCxZemTw7wQgjQ4piroxM_2HI57oEnqkdXW0g=",
+        "name" : "mango",
+        "type" : "fruit",
+        "cost" : 100        
+    },
+    {
+        "id" : 7,
+        "image": "https://c0.wallpaperflare.com/preview/901/312/48/pear-tree-green-fruit.jpg",
+        "name" : "pear",
+        "type" : "fruit",
+        "cost" : 150        
+    },
+    {
+        "id" : 8,
+        "image": "https://c4.wallpaperflare.com/wallpaper/72/665/231/4k-watermelon-wallpaper-preview.jpg",
+        "name" : "watermelon",
+        "type" : "fruit",
+        "cost" : 60        
+    },
+    {
+        "id" : 9,
+        "image": "https://png.pngtree.com/png-vector/20230726/ourmid/pngtree-olive-branch-hd-image-png-image_6750704.png",
+        "name" : "olive",
+        "type" : "fruit",
+        "cost" : 150        
+    },
+    {
+        "id" : 10,
+        "image": "https://png.pngtree.com/png-vector/20230726/ourmid/pngtree-olive-branch-hd-image-png-image_6750704.png",
+        "name" : "apricot",
+        "type" : "fruit",
+        "cost" : 170        
+    },
+    {
+        "id" : 11,
+        "image": "https://www.shutterstock.com/image-photo/dried-date-green-mint-bowl-260nw-534357907.jpg",
+        "name" : "date",
+        "type" : "fruit",
+        "cost" : 120        
+    },
+    {
+        "id" : 12,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AVHbKbyT_moqIfo1KiJvqwOWDgpmtBdV-Q&s",
+        "name" : "durian",
+        "type" : "fruit",
+        "cost" : 160        
+    },
+    {
+        "id" : 13,
+        "image": "https://t3.ftcdn.net/jpg/00/34/61/76/360_F_34617669_p9r4GrR83TBEXCZrRny6AaigqPUEPFp5.jpg",
+        "name" : "tomato",
+        "type" : "vegetable",
+        "cost" : 30        
+    },
+    {
+        "id" : 14,
+        "image": "https://freshunlimited.in/cdn/shop/products/Lady_Finger_612x.png?v=1609402730",
+        "name" : "lady'sfinger",
+        "type" : "vegetable",
+        "cost" : 30        
+    },
+    {
+        "id" : 15,
+        "image": "https://www.shutterstock.com/image-photo/carrot-vegetable-leaves-isolated-on-260nw-1089113990.jpg",
+        "name" : "carrot",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 16,
+        "image": "https://www.eatrightbasket.com/wp-content/uploads/2019/02/SS_Veg_07.jpg",
+        "name" : "beetroot",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 17,
+        "image": "https://tse2.mm.bing.net/th?id=OIP.UJj9lYQaPPrvnM4doy-AaAHaFt&pid=Api&P=0&h=180",
+        "name" : "potato",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 18,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.jZz5wfd-EKbWscaMa3q3FAHaHa&pid=Api&rs=1&c=1&qlt=95&w=121&h=121",
+        "name" : "brinjal",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 19,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.CEfSblgRNGCQQNq5tFtpzwHaFS&pid=Api&rs=1&c=1&qlt=95&w=158&h=113",
+        "name" : "Cabbage ",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 20,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.wrE0ekFX2BDfI79zIkgfugHaFj&pid=Api&rs=1&c=1&qlt=95&w=161&h=120",
+        "name" : "Radish ",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 21,
+        "image": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/onion-min.png?resize=150%2C150&ssl=1",
+        "name" : "Onion ",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 22,
+        "image": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/Bitter-Gourd-min.png?resize=150%2C150&ssl=1",
+        "name" : "Bitter Gourd",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 23,
+        "image": "https://sp.yimg.com/ib/th?id=OIP.dfRiNrvqsTrW2Js4ZBMRSQHaFG&pid=Api&w=148&h=148&c=7&rs=1",
+        "name" : "Cauliflower",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 24,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.ZmkzVqW-PC8qEKsJRy5PHQHaE8&pid=Api&rs=1&c=1&qlt=95&w=174&h=116",
+        "name" : "Pumpkin",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 25,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.uynjmDWW1LiZuOxeXLy6hgHaD8&pid=Api&rs=1&c=1&qlt=95&w=206&h=109",
+        "name" : "Ginger",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 26,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.dtfdCMoiEB8G1lWCvhwQLAAAAA&pid=Api&rs=1&c=1&qlt=95&w=173&h=115",
+        "name" : "Chilli",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 27,
+        "image": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/capsicum-min.png?resize=150%2C150&ssl=1",
+        "name" : "Capsicum",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 28,
+        "image": "https://sp.yimg.com/ib/th?id=OIP.2DWOPnT9TDPGE4JhoIpcBgHaLH&pid=Api&w=148&h=148&c=7&rs=1",
+        "name" : "Mushroom",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 29,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.5oCbxPU96dqkgLWUU_EOlgHaE8&pid=Api&rs=1&c=1&qlt=95&w=174&h=116",
+        "name" : "Broccoli",
+        "type" : "vegetable",
+        "cost" : 90        
+    },
+    {
+        "id" : 30,
+        "image": "https://tse1.mm.bing.net/th?id=OIP.-8vA8_FM0Asp0Dvr2RGfrAHaHa&pid=Api&rs=1&c=1&qlt=95&w=116&h=116",
+        "name" : "Green bean",
+        "type" : "vegetable",
+        "cost" : 90        
+    }
+]
