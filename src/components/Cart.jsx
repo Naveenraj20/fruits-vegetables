@@ -12,7 +12,6 @@ const Cart =  ({setCartValue}) => {
     ({ id }, index) => !ids.includes(id, index + 1)
   );
   const [cost, setCost] = useState(null);
-  setCartValue(data.length)
 
   
   useEffect(() => fun, []);
