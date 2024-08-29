@@ -14,8 +14,8 @@ const val = List.filter((e)=>{
 
   return (
     <>
-        <div className='lg:m-3 m-1 text-center font-semibold' >{searchItem.length==0?"":`Results for - "${searchItem}"`}{val.length==List.length?"":`--/ ${val.length} result`}</div>
-        <div className='grid grid-cols-3 m-1 p-2'>
+        <div className='lg:m-3 m-1 text-center mt-5 font-semibold' >{searchItem.length==0?"":`Results for - "${searchItem}"`}{val.length==List.length?"":`--/ ${val.length} result`}</div>
+        <div className='grid lg:grid-cols-3 m-1 p-2'>
 
         {val.map((e)=><Cards item={e} key={e.id}/>)}
         </div>
